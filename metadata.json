@@ -1,7 +1,8 @@
 {  
    "orderedActiveTutorials":[  
-      "quick-start",
       "layout-and-navigation",
+      "quick-start",
+      "quick-start",
       "grocery-list"
    ]
 }
